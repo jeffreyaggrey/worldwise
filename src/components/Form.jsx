@@ -41,6 +41,7 @@ function Form() {
       country,
       date,
       notes,
+      emoji,
       position: {
         lat,
         lng,

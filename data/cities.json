@@ -37,70 +37,16 @@
       "id": 98443197
     },
     {
-      "cityName": "Idanha-a-Nova",
-      "country": "Portugal",
-      "date": "2024-02-23T23:02:26.116Z",
+      "cityName": "Micasasa",
+      "country": "Romania",
+      "date": "2024-02-23T23:49:56.901Z",
       "notes": "",
+      "emoji": "🇷🇴",
       "position": {
-        "lat": "39.85915479295669",
-        "lng": "-7.185058593750001"
+        "lat": "46.10370875598026",
+        "lng": "24.125976562500004"
       },
       "id": 98443198
-    },
-    {
-      "cityName": "Idanha-a-Nova",
-      "country": "Portugal",
-      "date": "2024-02-23T23:02:26.116Z",
-      "notes": "",
-      "position": {
-        "lat": "39.85915479295669",
-        "lng": "-7.185058593750001"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Tinghir",
-      "country": "Morocco",
-      "date": "2024-02-23T23:07:10.825Z",
-      "notes": "",
-      "position": {
-        "lat": "31.57853542647338",
-        "lng": "-5.712890625000001"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Tinghir",
-      "country": "Morocco",
-      "date": "2024-02-23T23:07:10.825Z",
-      "notes": "",
-      "position": {
-        "lat": "31.57853542647338",
-        "lng": "-5.712890625000001"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Adamuz",
-      "country": "Spain",
-      "date": "2024-02-23T23:10:52.120Z",
-      "notes": "",
-      "position": {
-        "lat": "38.03078569382294",
-        "lng": "-4.570312500000001"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Foggaret Ezzaou",
-      "country": "Algeria",
-      "date": "2024-02-23T23:12:25.249Z",
-      "notes": "",
-      "position": {
-        "lat": "26.23430203240676",
-        "lng": "3.9111328125000004"
-      },
-      "id": 98443203
     }
   ]
 }
