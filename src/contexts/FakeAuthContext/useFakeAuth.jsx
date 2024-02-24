@@ -1,7 +1,7 @@
 import { useContext } from 'react';
-import AuthContext from './FakeAuthContext';
+import AuthContext from './AuthContext';
 
-export function useFakeAuth() {
+export function useAuth() {
   const context = useContext(AuthContext);
 
   if (context === undefined) {
