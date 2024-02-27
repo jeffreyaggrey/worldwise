@@ -47,6 +47,30 @@
         "lng": "-0.087890625"
       },
       "id": 98443198
+    },
+    {
+      "cityName": "Kumasi",
+      "country": "Ghana",
+      "date": "2024-02-24T15:47:02.332Z",
+      "notes": "I enjoyed m trip\n",
+      "emoji": "🇬🇭",
+      "position": {
+        "lat": "6.688477173722685",
+        "lng": "-1.6170501708984375"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Fuente de Cantos",
+      "country": "Spain",
+      "date": "2024-02-26T22:56:10.575Z",
+      "notes": "",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "38.25543637637949",
+        "lng": "-6.1962890625"
+      },
+      "id": 98443200
     }
   ]
 }

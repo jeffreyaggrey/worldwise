@@ -74,7 +74,7 @@ function Map() {
           </Marker>
         ))}
 
-        <ChanageCenter position={mapPosition} />
+        <ChangeCenter position={mapPosition} />
         <DetectClick />
       </MapContainer>
     </div>
@@ -82,7 +82,7 @@ function Map() {
 }
 
 // Custom component to change the center of the map since leaflet doesn't provide a way to do it
-function ChanageCenter({ position }) {
+function ChangeCenter({ position }) {
   const map = useMap();
   map.setView(position);
 
